@@ -1,0 +1,75 @@
+*{
+    font-family: "roboto" sans-serif;
+    margin: 0p;
+   }
+
+.conteiner{
+    display:flex;
+    border: 1px solid #dadddf;
+    padding: 17px;
+    margin: 5px; 
+}
+
+.content{
+    width: 430px;
+    margin-left: 12px;
+}
+
+.header{
+    display:flex;
+    align-items: center;
+    margin-right: 3px;
+}
+
+h1{
+font-size: 15px;
+font-weight: 700;
+text-transform: capitalize;
+color:#0F1419
+}
+
+.verfy{
+    width: 15px;
+    height: 15px;
+    margin-right: 6px;
+}
+
+h2{
+color: #536471;
+font-size: 15px;
+font-weight: 400;
+}
+
+.ball{
+width: 5px;
+height: 5px;
+margin-right: 3px;
+}
+
+.date{
+    font-size: 15px;
+    color: #536471;
+}
+
+p{
+color: #0F1419;
+width: 430px;
+}
+
+.wrapper{
+    display: flex;
+    width: 430px;
+    justify-content:space-between
+    }
+
+    .coment{
+    margin-right: 17px;
+}
+
+.retweetar{
+    margin-right: 18px;
+}
+
+.favorite{
+    margin-right:  28px; 
+}
